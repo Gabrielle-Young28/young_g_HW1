@@ -1,5 +1,5 @@
 This is my collab file with my group write about each other ba
-[choco](/images/choco.jpg)
+[](/images/choco.jpg)
 
 # Keisha Esta
 My name is Keisha Esta and I am 19 years old this year.
