@@ -1,7 +1,7 @@
 This is my collab file with my group write about each other ba
-[Keisha Esta](/images/choco.jpg)
+[choco](/images/choco.jpg)
 
-# Name & Age
+# Keisha Esta
 My name is Keisha Esta and I am 19 years old this year.
 ## Background
 I am a Filipina. I was born in the Philippines but was mostly raised in Saudi Arabia for most of my life. My family and I came to Canada for almost four years now (2022).
