@@ -1,5 +1,5 @@
 # young_g_HW1 #le_an_HW1
-![KEISHA ESTA](kei.jpg)
+![KEISHA ESTA](images/kei.jpg)
 Name & Age
 My name is Keisha Esta and I am 19 years old this year.
 Background
