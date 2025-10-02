@@ -43,3 +43,5 @@ This is Homework 1 in our Media Authoring Class. We are a creating repo, and col
 ### Future Aspirations
 
 - I hope to merge web design and my photography skills, to create websites and portfolios for businesses.
+=======
+This is Homework 1 in our Media Authoring Class. We are a creating repo, and collaborating with teams to create About Me pages about each other in branches.
