@@ -3,7 +3,7 @@ This is Homework 1 in our Media Authoring Class. We are a creating repo, and col
 
 # Le, Phan Binh An
 
-! [A Picture Of An's Lego Figure](images/Binh_An_Photo.JPG) 
+![A Picture Of An's Lego Figure](images/Binh_An_Photo.JPG)
 
 ### Age
 
