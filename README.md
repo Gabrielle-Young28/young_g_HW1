@@ -3,7 +3,7 @@ This is Homework 1 in our Media Authoring Class. We are a creating repo, and col
 
 # Gabrielle Young
 
-![A picture of Gabby](1000092940.jpg)
+![A picture of Gabby][images/pictureofgabby.jpg]
 
 ### Age
 
