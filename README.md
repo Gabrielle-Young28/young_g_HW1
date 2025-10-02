@@ -1,4 +1,4 @@
-This is my collab file with my group write about each other ba
+This is my collab repo with my group write about each other 
 [](/images/choco.jpg)
 
 # Keisha Esta
