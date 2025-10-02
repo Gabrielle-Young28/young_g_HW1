@@ -2,6 +2,9 @@
 This is Homework 1 in our Media Authoring Class. We are a creating repo, and collaborating with teams to create About Me pages about each other in branches.
 
 # Gabrielle Young
+
+![A picture of Gabby](1000092940.jpg)
+
 ### Age
 
 - I will be turning 23 at the end of October.
