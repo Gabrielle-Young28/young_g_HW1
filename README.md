@@ -1,4 +1,4 @@
-# young_g_HW1
+# MMED-1054 Homework 1 Assignment
 This is Homework 1 in our Media Authoring Class. We are a creating repo, and collaborating with teams to create About Me pages about each other in branches.
 
 # Le, Phan Binh An
@@ -27,3 +27,13 @@ I have a cat back in Vietnam that I rescued from the street in 2023. His name is
 - New Anime
 - Kamen Rider
 - Super Sentai
+
+### Music
+
+I like K-Pop, Hip Hop, and some V-Pop. Sometimes just something trendy. 
+
+### Future Aspirations 
+
+- I want to have jobs that can support my family wherever and whenever I can. This is because it is my duty as a Vietnamese after I graduate. 
+
+- Any job that can give me those opportunities would be fine because that is my goal.
