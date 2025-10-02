@@ -2,6 +2,9 @@
 This is Homework 1 in our Media Authoring Class. We are a creating repo, and collaborating with teams to create About Me pages about each other in branches.
 
 # Le, Phan Binh An
+
+! [A Picture Of An's Lego Figure](images/Binh_An_Photo.JPG) 
+
 ### Age
 
 - I am 21 years old.
