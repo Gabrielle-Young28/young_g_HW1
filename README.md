@@ -1,46 +1,42 @@
 # MMED-1054 Homework 1 Assignment
-
 This is Homework 1 in our Media Authoring Class. We are a creating repo, and collaborating with teams to create About Me pages about each other in branches.
 
-# Gabrielle Young
+# Le, Phan Binh An
 
-![A picture of Gabby](images/pictureofgabby.jpg)
+![A Picture Of An's Lego Figure](images/Binh_An_Photo.JPG)
 
-### Age 🔢
+### Age
 
-- I will be turning 23 at the end of October.
+- I am 21 years old.
 
-### Background
+### Background 
 
-- I am Irish on both sides of my family and German on my mom's side, but I was born in Canada.
+- I am Vietnamese. I was born and raised in Vietnam. I moved here to Canada by myself.
+
+### Hobbies & Sports
+
+- Customize Lego Figures.
+- My favourite sport is basketball cause that is the sport I picked up after my football/soccer injury in secondary school. 
 
 ### Pets
 
-- I own a cute little tuxedo cat named Lilypad 🐱🐈‍⬛.
+I have a cat back in Vietnam that I rescued from the street in 2023. His name is Miu and he's a Tabby Cat :3 
 
-### Hobbies
+### Interests 
 
-- Reading 📖
-- Photography 📸
-- Watching Anime or True Crime 💻
-- Musicals 🎼
+- NBA
+- Premier League
+- E-Sports
+- New Anime
+- Kamen Rider
+- Super Sentai
 
-### Favourite TV Shows 📺
+### Music
 
-- Dr. Stone
-- Law and Order
-- Attack on Titan
-- One Piece
+I like K-Pop, Hip Hop, and some V-Pop. Sometimes just something trendy. 
 
-### Where would I travel to? ✈️
+### Future Aspirations 
 
-- Japan
-- Italy 
+- I want to have jobs that can support my family wherever and whenever I can. This is because it is my duty as a Vietnamese after I graduate. 
 
-### Biggest Fear
-
-- Snakes 🐍. They are terrifying and creepy.
-
-### Future Aspirations
-
-- I hope to merge web design and my photography skills, to create websites and portfolios for businesses.
+- Any job that can give me those opportunities would be fine because that is my goal.
