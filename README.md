@@ -7,9 +7,9 @@ This is Homework 1 in our Media Authoring Class. We are a creating repo, and col
 
 ### Age
 
-- I am 21 years old. :two::1:
+- I am 21 years old. :two::one:
 
-### Background 
+### Background :vietnam:
 
 - I am Vietnamese. I was born and raised in Vietnam. I moved here to Canada by myself.
 
