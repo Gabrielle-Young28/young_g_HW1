@@ -1,8 +1,9 @@
 # Keisha Esta
 ![A picture of a cute puppy](/images/choco.jpg)
-My name is Keisha Esta and I am 19 years old this year.
+
 
 ## Background
+My name is Keisha Esta and I am 19 years old this year.
 I am a Filipina. I was born in the Philippines but was mostly raised in Saudi Arabia for most of my life. My family and I came to Canada for almost four years now (2022).
 
 ### Hobbies & Sports
