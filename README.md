@@ -1,3 +1,7 @@
+# MMED-1054 Homework 1 Assignment
+
+This is Homework 1 in our Media Authoring Class. We are a creating repo, and collaborating with teams to create About Me pages about each other in branches.
+
 # Gabrielle Young
 
 ![A picture of Gabby](images/pictureofgabby.jpg)
