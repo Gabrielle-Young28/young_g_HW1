@@ -1,3 +1,8 @@
+# MMED-1054 the Homework 1 Assignment
+
+
+This is Homework 1 in our Media Authoring Class. I been added to this repo to struggle in the about me pages.
+
 # Keisha Esta
 ![A picture of a cute puppy](/images/choco.jpg)
 
