@@ -42,24 +42,6 @@ I like K-Pop, Hip Hop, and some V-Pop. Sometimes just something trendy.
 
 - Any job that can give me those opportunities would be fine because that is my goal.
 
-## Installation
-
-## Usage
-
-## Contributing
-
-## History
-
-## Credits 
-Gabrielle Young, Le, Phan Binh An, Keisha Esta
-
-## License
-MIT License
-=======
-# MMED-1054 the Homework 1 Assignment
-
-
-This is Homework 1 in our Media Authoring Class. I been added to this repo to struggle in the about me pages.
 
 # Keisha Esta
 ![A picture of a cute puppy](/images/choco.jpg)
@@ -141,3 +123,17 @@ Interests
 ### Future Aspirations
 
 - I hope to merge web design and my photography skills, to create websites and portfolios for businesses.
+
+## Installation
+
+## Usage
+
+## Contributing
+
+## History
+
+## Credits 
+Gabrielle Young, Le, Phan Binh An, Keisha Esta
+
+## License
+MIT License
