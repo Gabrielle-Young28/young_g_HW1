@@ -1,4 +1,3 @@
-
 # MMED-1054 Homework 1 Assignment
 This is Homework 1 in our Media Authoring Class. We are a creating repo, and collaborating with teams to create About Me pages about each other in branches.
 
@@ -41,20 +40,6 @@ I like K-Pop, Hip Hop, and some V-Pop. Sometimes just something trendy.
 - I want to have jobs that can support my family wherever and whenever I can. This is because it is my duty as a Vietnamese after I graduate. 
 
 - Any job that can give me those opportunities would be fine because that is my goal.
-
-## Installation
-
-## Usage
-
-## Contributing
-
-## History
-
-## Credits 
-Gabrielle Young, Le, Phan Binh An, Keisha Esta
-
-## License
-MIT License
 =======
 # MMED-1054 the Homework 1 Assignment
 
@@ -65,7 +50,7 @@ This is Homework 1 in our Media Authoring Class. I been added to this repo to st
 ![A picture of a cute puppy](/images/choco.jpg)
 
 
-## Background
+### Background
 My name is Keisha Esta and I am 19 years old this year.
 I am a Filipina. I was born in the Philippines but was mostly raised in Saudi Arabia for most of my life. My family and I came to Canada for almost four years now (2022).
 
@@ -74,28 +59,28 @@ I am a Filipina. I was born in the Philippines but was mostly raised in Saudi Ar
 - My favourite sport is Badminton but I also like to play Volleyball.
 - Watching videos on YouTube and TikTok
 
-#### Pets
-Thave a white maltese dog and her name is Choco, she was named that because her fur was brown when Choco was a puppy. She is 5 years old.
-Interests
+### Pets
+- I have a white maltese dog and her name is Choco, she was named that because her fur was brown when Choco was a puppy. She is 5 years old.
+### Interests
 - Read Manga (Isekai/Reincarnation, Manhwa, Webtoon, Action,
 
-##### Martial Arts)
+### Martial Arts
 - Bungou Stray Dogs
 - Demon Slayer
 - Windbreaker
 - Watching YouTubers like Kubzscouts and SmiiZy
 
-###### Where Would I Like To Travel To
+### Where Would I Like To Travel To
 - Japan
 - Korea
 - Australia
 
-###### Fears & Dislikes
+### Fears & Dislikes
 - Spiders
 - Cockroaches
 - A bit of Trypophobia (Fear of Holes in things that shouldn't have holes)
 
-###### Future Aspirations
+### Future Aspirations
 - I want to get a good job to support myself and live comfortably. I would also like to travel around and meet different people.
 - I want to volunteer or get a job at an animal shelter so that I get to
 
@@ -141,3 +126,17 @@ Interests
 ### Future Aspirations
 
 - I hope to merge web design and my photography skills, to create websites and portfolios for businesses.
+
+## Installation
+
+## Usage
+
+## Contributing
+
+## History
+
+## Credits 
+Gabrielle Young, Le, Phan Binh An, Keisha Esta
+
+## License
+MIT License
