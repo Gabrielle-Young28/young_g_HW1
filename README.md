@@ -7,13 +7,13 @@ This is Homework 1 in our Media Authoring Class. We are a creating repo, and col
 
 ### Age
 
-- I am 21 years old.
+- I am 21 years old. :two::1:
 
 ### Background 
 
 - I am Vietnamese. I was born and raised in Vietnam. I moved here to Canada by myself.
 
-### Hobbies & Sports :baskettball:
+### Hobbies & Sports :basketball:
 
 - Customize Lego Figures.
 - My favourite sport is basketball cause that is the sport I picked up after my football/soccer injury in secondary school. 
@@ -31,7 +31,7 @@ I have a cat back in Vietnam that I rescued from the street in 2023. His name is
 - Kamen Rider
 - Super Sentai
 
-### Music 
+### Music :musical_note:
 
 I like K-Pop, Hip Hop, and some V-Pop. Sometimes just something trendy. 
 
