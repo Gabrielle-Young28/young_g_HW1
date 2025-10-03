@@ -1,5 +1,5 @@
 # Keisha Esta
-[.](/images/choco.jpg)
+![A picture of a cute puppy](/images/choco.jpg)
 My name is Keisha Esta and I am 19 years old this year.
 
 ## Background
